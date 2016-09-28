@@ -1,0 +1,49 @@
+to run a single line 
+i) open folder — models/syntaxnet
+ii) echo ‘I am here to find X’ | syntaxnet/demo.sh
+iii) the parsed results will be in the terminal
+
+to run sentences from file 
+
+i) open folder — models/syntaxnet
+ii) type syntaxnet/demo.sh < input.txt > parsed_out.txt 
+ — output file need not to be created. it will auto created if not present in the folder models/syntaxnet
+— if no outfut file is mentioned, output will be displayed in the terminal
+
+
+
+for issue on line run
+echo    'Bob brought the pizza to Alice.' |syntaxnet/demo.sh
+
+like this 
+
+syntaxnet/demo.sh: line 31: bazel-bin/syntaxnet/parser_eval: 
+No such file or directory
+syntaxnet/demo.sh: line 43: bazel-bin/syntaxnet/parser_eval: 
+No such file or directory
+syntaxnet/demo.sh: line 55: bazel-bin/syntaxnet/conll2tree: 
+No such file or directory
+
+
+there are 4 demo.sh file in the system, only format the file with location direct in models/syntaxnet/syntaxnet
+
+
+To fix it, modify the demo.sh file, lines 31 and 55. The locations it points to find parser_eval and conll2tree are wrong, at least they were in my system.
+
+Do a search for "sudo find / -iname 'parser_eval'"
+
+the location of this file was /private/var/tmp/_bazel_satwatbashir/5a02c8d112027c5a0c290fe73fe86e44/syntaxnet/bazel-out/local_darwin-opt/bin/syntaxnet/parser_eval" 
+I then proceeded to point line 31 to this location instead of "bazel-bin/syntaxnet/parser_eval".
+
+
+MODEL_DIR=/Users/satwatbashir/models/syntaxnet/syntaxnet/models/parsey_mcparseface
+
+
+Then did the same for line 55 and conll2tree. Saved the file, and got it running. Hope it helps
+
+
+check the demo-formated.txt for details
+
+
+
+
