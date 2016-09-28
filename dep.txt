@@ -1,0 +1,40 @@
+5 classifi VBN dep
+
+5 such JJ dep
+
+6 role NN dep
+
+13 diabet NNS dep
+
+16 diabet NN dep
+
+16 diseas NN dep
+
+18 about IN dep
+
+18 differ JJ dep
+
+19 much JJ dep
+
+26 true JJ dep
+
+27 get VBP dep
+
+28 What WP dep
+
+31 Such JJ dep
+
+31 experi NNS dep
+
+32 get VB dep
+
+38 diabet NN dep
+
+39 diabet NN dep
+
+40 not RB dep
+
+40 ago. FW dep
+
+40 caus VBN dep
+

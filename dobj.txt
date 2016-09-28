@@ -1,0 +1,106 @@
+1 inject NN dobj
+
+2 it PRP dobj
+
+2 it PRP dobj
+
+3 kind NN dobj
+
+6 relat NN dobj
+
+6 dysfunct NN dobj
+
+8 diabet NN dobj
+
+9 lot NN dobj
+
+10 diabet NN dobj
+
+12 that WDT dobj
+
+13 phrase NN dobj
+
+14 insulin NN dobj
+
+15 factor NN dobj
+
+16 state NN dobj
+
+16 type NN dobj
+
+16 diabet NNS dobj
+
+17 diabet NNS dobj
+
+17 it PRP dobj
+
+17 habit NNS dobj
+
+17 medic NN dobj
+
+17 doctor NN dobj
+
+18 type NN dobj
+
+19 lifestyl NN dobj
+
+20 What WP dobj
+
+21 finger NN dobj
+
+21 sugar NN dobj
+
+22 diabet NN dobj
+
+23 life NN dobj
+
+25 diagnosi NN dobj
+
+25 patient NN dobj
+
+25 chanc NN dobj
+
+25 level NNS dobj
+
+26 habits. NN dobj
+
+27 diabet NNS dobj
+
+28 spread NN dobj
+
+29 sort NNS dobj
+
+31 diabet NNS dobj
+
+32 diabet NNS dobj
+
+32 weight NN dobj
+
+33 thing NNS dobj
+
+33 weight NN dobj
+
+35 diabet NNS dobj
+
+36 span NN dobj
+
+38 factor NNS dobj
+
+40 failur NN dobj
+
+40 year NNS dobj
+
+44 sugar NN dobj
+
+44 what WP dobj
+
+45 that WDT dobj
+
+45 diabet NN dobj
+
+46 age NN dobj
+
+47 risk NN dobj
+
+50 issu NNS dobj
+

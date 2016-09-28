@@ -1,0 +1,544 @@
+1 need VBP ROOT
+1 need VBP ROOT
+similarity =3
+
+1 those DT nsubj
+1 those DT nsubj
+similarity =3
+
+1 give VB xcomp
+1 give VB xcomp
+similarity =3
+
+1 themselv PRP iobj
+1 themselv PRP iobj
+similarity =3
+
+1 inject NN dobj
+1 inject NN dobj
+similarity =3
+
+Total Similarity of sent1, sent1 = 15
+
+Total Similarity of sent1, sent2 = 0
+
+1 need VBP ROOT
+3 need VB ROOT
+similarity =2
+
+Total Similarity of sent1, sent3 = 2
+
+Total Similarity of sent1, sent4 = 0
+
+Total Similarity of sent1, sent5 = 0
+
+Total Similarity of sent1, sent6 = 0
+
+Total Similarity of sent1, sent7 = 0
+
+Total Similarity of sent1, sent8 = 0
+
+Total Similarity of sent1, sent9 = 0
+
+Total Similarity of sent1, sent10 = 0
+
+Total Similarity of sent2, sent1 = 0
+
+2 someth NN ROOT
+2 someth NN ROOT
+similarity =3
+
+2 diabet NNS nsubj
+2 diabet NNS nsubj
+similarity =3
+
+2 that WDT nsubjpass
+2 that WDT nsubjpass
+similarity =3
+
+2 ha VBZ advcl
+2 ha VBZ advcl
+similarity =3
+
+2 when WRB advmod
+2 when WRB advmod
+similarity =3
+
+2 someon NN nsubj
+2 someon NN nsubj
+similarity =3
+
+2 it PRP dobj
+2 it PRP dobj
+similarity =3
+
+2 it PRP dobj
+2 it PRP dobj
+similarity =3
+
+2 they PRP nsubj
+2 they PRP nsubj
+similarity =3
+
+2 it PRP dobj
+2 it PRP dobj
+similarity =3
+
+2 it PRP dobj
+2 it PRP dobj
+similarity =3
+
+Total Similarity of sent2, sent2 = 33
+
+2 someon NN nsubj
+3 someon NN nsubj
+similarity =3
+
+2 they PRP nsubj
+3 they PRP nsubj
+similarity =3
+
+Total Similarity of sent2, sent3 = 6
+
+Total Similarity of sent2, sent4 = 0
+
+2 it PRP dobj
+5 it PRP nsubj
+similarity =2
+
+2 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+2 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+2 it PRP dobj
+5 it PRP nsubj
+similarity =2
+
+Total Similarity of sent2, sent5 = 10
+
+Total Similarity of sent2, sent6 = 0
+
+Total Similarity of sent2, sent7 = 0
+
+2 diabet NNS nsubj
+8 diabet NN dobj
+similarity =1
+
+Total Similarity of sent2, sent8 = 1
+
+Total Similarity of sent2, sent9 = 0
+
+2 diabet NNS nsubj
+10 diabet NN dobj
+similarity =1
+
+Total Similarity of sent2, sent10 = 1
+
+3 need VB ROOT
+1 need VBP ROOT
+similarity =2
+
+Total Similarity of sent3, sent1 = 2
+
+3 someon NN nsubj
+2 someon NN nsubj
+similarity =3
+
+3 they PRP nsubj
+2 they PRP nsubj
+similarity =3
+
+Total Similarity of sent3, sent2 = 6
+
+3 need VB ROOT
+3 need VB ROOT
+similarity =3
+
+3 kind NN dobj
+3 kind NN dobj
+similarity =3
+
+3 someon NN nsubj
+3 someon NN nsubj
+similarity =3
+
+3 follow VB xcomp
+3 follow VB xcomp
+similarity =3
+
+3 food NNS nsubj
+3 food NNS nsubj
+similarity =3
+
+3 they PRP nsubj
+3 they PRP nsubj
+similarity =3
+
+3 not RB neg
+3 not RB neg
+similarity =3
+
+3 all RB advmod
+3 all RB advmod
+similarity =3
+
+3 at RB advmod
+3 at RB advmod
+similarity =3
+
+Total Similarity of sent3, sent3 = 27
+
+Total Similarity of sent3, sent4 = 0
+
+3 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+3 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+3 not RB neg
+5 not RB neg
+similarity =3
+
+Total Similarity of sent3, sent5 = 9
+
+Total Similarity of sent3, sent6 = 0
+
+Total Similarity of sent3, sent7 = 0
+
+Total Similarity of sent3, sent8 = 0
+
+Total Similarity of sent3, sent9 = 0
+
+Total Similarity of sent3, sent10 = 0
+
+Total Similarity of sent4, sent1 = 0
+
+Total Similarity of sent4, sent2 = 0
+
+Total Similarity of sent4, sent3 = 0
+
+4 treatment NN ROOT
+4 treatment NN ROOT
+similarity =3
+
+4 diet NN nsubj
+4 diet NN nsubj
+similarity =3
+
+Total Similarity of sent4, sent4 = 6
+
+Total Similarity of sent4, sent5 = 0
+
+Total Similarity of sent4, sent6 = 0
+
+Total Similarity of sent4, sent7 = 0
+
+Total Similarity of sent4, sent8 = 0
+
+Total Similarity of sent4, sent9 = 0
+
+Total Similarity of sent4, sent10 = 0
+
+Total Similarity of sent5, sent1 = 0
+
+5 it PRP nsubj
+2 it PRP dobj
+similarity =2
+
+5 it PRP nsubj
+2 it PRP dobj
+similarity =2
+
+5 they PRP nsubj
+2 they PRP nsubj
+similarity =3
+
+5 they PRP nsubj
+2 they PRP nsubj
+similarity =3
+
+Total Similarity of sent5, sent2 = 10
+
+5 they PRP nsubj
+3 they PRP nsubj
+similarity =3
+
+5 they PRP nsubj
+3 they PRP nsubj
+similarity =3
+
+5 not RB neg
+3 not RB neg
+similarity =3
+
+Total Similarity of sent5, sent3 = 9
+
+Total Similarity of sent5, sent4 = 0
+
+5 exist VB ROOT
+5 exist VB ROOT
+similarity =3
+
+5 it PRP nsubj
+5 it PRP nsubj
+similarity =3
+
+5 classifi VBN dep
+5 classifi VBN dep
+similarity =3
+
+5 such JJ dep
+5 such JJ dep
+similarity =3
+
+5 peopl NNS nsubjpass
+5 peopl NNS nsubjpass
+similarity =3
+
+5 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+5 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+5 diagnos JJ advcl
+5 diagnos JJ advcl
+similarity =3
+
+5 even RB advmod
+5 even RB advmod
+similarity =3
+
+5 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+5 they PRP nsubj
+5 they PRP nsubj
+similarity =3
+
+5 not RB neg
+5 not RB neg
+similarity =3
+
+Total Similarity of sent5, sent5 = 36
+
+Total Similarity of sent5, sent6 = 0
+
+Total Similarity of sent5, sent7 = 0
+
+Total Similarity of sent5, sent8 = 0
+
+Total Similarity of sent5, sent9 = 0
+
+Total Similarity of sent5, sent10 = 0
+
+Total Similarity of sent6, sent1 = 0
+
+Total Similarity of sent6, sent2 = 0
+
+Total Similarity of sent6, sent3 = 0
+
+Total Similarity of sent6, sent4 = 0
+
+Total Similarity of sent6, sent5 = 0
+
+6 have VB ROOT
+6 have VB ROOT
+similarity =3
+
+6 role NN dep
+6 role NN dep
+similarity =3
+
+6 relat NN dobj
+6 relat NN dobj
+similarity =3
+
+6 diseas NN nsubj
+6 diseas NN nsubj
+similarity =3
+
+6 dysfunct NN dobj
+6 dysfunct NN dobj
+similarity =3
+
+Total Similarity of sent6, sent6 = 15
+
+Total Similarity of sent6, sent7 = 0
+
+Total Similarity of sent6, sent8 = 0
+
+Total Similarity of sent6, sent9 = 0
+
+Total Similarity of sent6, sent10 = 0
+
+Total Similarity of sent7, sent1 = 0
+
+Total Similarity of sent7, sent2 = 0
+
+Total Similarity of sent7, sent3 = 0
+
+Total Similarity of sent7, sent4 = 0
+
+Total Similarity of sent7, sent5 = 0
+
+Total Similarity of sent7, sent6 = 0
+
+7 What WP ROOT
+7 What WP ROOT
+similarity =3
+
+7 symptom NNS nsubj
+7 symptom NNS nsubj
+similarity =3
+
+Total Similarity of sent7, sent7 = 6
+
+Total Similarity of sent7, sent8 = 0
+
+Total Similarity of sent7, sent9 = 0
+
+7 What WP ROOT
+10 What WP nsubj
+similarity =2
+
+Total Similarity of sent7, sent10 = 2
+
+Total Similarity of sent8, sent1 = 0
+
+8 diabet NN dobj
+2 diabet NNS nsubj
+similarity =1
+
+Total Similarity of sent8, sent2 = 1
+
+Total Similarity of sent8, sent3 = 0
+
+Total Similarity of sent8, sent4 = 0
+
+Total Similarity of sent8, sent5 = 0
+
+Total Similarity of sent8, sent6 = 0
+
+Total Similarity of sent8, sent7 = 0
+
+8 contract NN ROOT
+8 contract NN ROOT
+similarity =3
+
+8 How WRB advmod
+8 How WRB advmod
+similarity =3
+
+8 one PRP nsubj
+8 one PRP nsubj
+similarity =3
+
+8 diabet NN dobj
+8 diabet NN dobj
+similarity =3
+
+8 late RB advmod
+8 late RB advmod
+similarity =3
+
+8 so RB advmod
+8 so RB advmod
+similarity =3
+
+Total Similarity of sent8, sent8 = 18
+
+Total Similarity of sent8, sent9 = 0
+
+8 diabet NN dobj
+10 diabet NN dobj
+similarity =3
+
+Total Similarity of sent8, sent10 = 3
+
+Total Similarity of sent9, sent1 = 0
+
+Total Similarity of sent9, sent2 = 0
+
+Total Similarity of sent9, sent3 = 0
+
+Total Similarity of sent9, sent4 = 0
+
+Total Similarity of sent9, sent5 = 0
+
+Total Similarity of sent9, sent6 = 0
+
+Total Similarity of sent9, sent7 = 0
+
+Total Similarity of sent9, sent8 = 0
+
+9 eat VBG ROOT
+9 eat VBG ROOT
+similarity =3
+
+9 lot NN dobj
+9 lot NN dobj
+similarity =3
+
+Total Similarity of sent9, sent9 = 6
+
+Total Similarity of sent9, sent10 = 0
+
+Total Similarity of sent10, sent1 = 0
+
+10 diabet NN dobj
+2 diabet NNS nsubj
+similarity =1
+
+Total Similarity of sent10, sent2 = 1
+
+Total Similarity of sent10, sent3 = 0
+
+Total Similarity of sent10, sent4 = 0
+
+Total Similarity of sent10, sent5 = 0
+
+Total Similarity of sent10, sent6 = 0
+
+10 What WP nsubj
+7 What WP ROOT
+similarity =2
+
+Total Similarity of sent10, sent7 = 2
+
+10 diabet NN dobj
+8 diabet NN dobj
+similarity =3
+
+Total Similarity of sent10, sent8 = 3
+
+Total Similarity of sent10, sent9 = 0
+
+10 caus VBZ ROOT
+10 caus VBZ ROOT
+similarity =3
+
+10 What WP nsubj
+10 What WP nsubj
+similarity =3
+
+10 specif RB advmod
+10 specif RB advmod
+similarity =3
+
+10 diabet NN dobj
+10 diabet NN dobj
+similarity =3
+
+Total Similarity of sent10, sent10 = 12
+
