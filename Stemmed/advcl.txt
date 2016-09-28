@@ -1,0 +1,24 @@
+2 ha VBZ advcl
+
+5 diagnos JJ advcl
+
+16 true JJ advcl
+
+17 suspect VBP advcl
+
+17 revers VB advcl
+
+24 age NNS advcl
+
+27 diagnos VBN advcl
+
+27 seriou JJ advcl
+
+31 have VBP advcl
+
+33 thing NN advcl
+
+41 like JJ advcl
+
+44 high JJ advcl
+
