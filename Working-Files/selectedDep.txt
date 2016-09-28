@@ -1,0 +1,353 @@
+
+1 need VBP ROOT
+1 those DT nsubj
+1 give VB xcomp
+1 themselves PRP iobj
+1 injection NN dobj
+
+2 something NN ROOT
+2 diabetes NNS nsubj
+2 that WDT nsubjpass
+2 has VBZ advcl
+2 when WRB advmod
+2 someone NN nsubj
+2 it PRP dobj
+2 they PRP nsubj
+2 it PRP dobj
+
+3 need VB ROOT
+3 kind NN dobj
+3 someone NN nsubj
+3 follow VB xcomp
+3 foods NNS nsubj
+3 they PRP nsubj
+3 not RB neg
+3 all RB advmod
+3 at RB advmod
+
+4 treatment NN ROOT
+4 diet NN nsubj
+
+5 exist VB ROOT
+5 it PRP nsubj
+5 classified VBN dep
+5 such JJ dep
+5 people NNS nsubjpass
+5 they PRP nsubj
+5 diagnosable JJ advcl
+5 even RB advmod
+5 they PRP nsubj
+5 not RB neg
+
+6 have VB ROOT
+6 role NN dep
+6 relation NN dobj
+6 disease NN nsubj
+6 dysfunction NN dobj
+
+7 What WP ROOT
+7 symptoms NNS nsubj
+
+8 contract NN ROOT
+8 How WRB advmod
+8 one PRP nsubj
+8 diabetes NN dobj
+8 late RB advmod
+8 so RB advmod
+
+9 eating VBG ROOT
+9 lot NN dobj
+
+10 causes VBZ ROOT
+10 What WP nsubj
+10 specifically RB advmod
+10 diabetes NN dobj
+
+11 preventable JJ ROOT
+11 diabetes NN nsubj
+11 all RB advmod
+11 at IN advmod
+
+12 What WP ROOT
+12 foods NNS nsubj
+12 that WDT dobj
+12 diabetics NNS nsubj
+
+13 heard VBN ROOT
+13 I PRP nsubj
+13 phrase NN dobj
+13 diabetes NNS dep
+13 know VB xcomp
+13 basis NN ccomp
+13 it PRP nsubj
+
+14 inject VB ROOT
+14 diabetics NNS nsubj
+14 insulin NN dobj
+
+15 play VB ROOT
+15 cholesterol NN nsubj
+15 factor NN dobj
+
+16 advocates VBZ ROOT
+16 acceptance NN nsubj
+16 state NN dobj
+16 develop VBP ccomp
+16 people NNS nsubj
+16 never RB neg
+16 type NN dobj
+16 diabetes NN dep
+16 true JJ advcl
+16 this DT nsubj
+16 why WRB advmod
+16 diabetes NNS dobj
+16 disease NN dep
+
+17 have VBP ROOT
+17 suspect VBP advcl
+17 you PRP nsubj
+17 you PRP nsubj
+17 diabetes NNS dobj
+17 impossible JJ ccomp
+17 it PRP nsubj
+17 reverse VB advcl
+17 you PRP nsubj
+17 it PRP dobj
+17 only RB advmod
+17 habits NNS dobj
+17 medication NN dobj
+17 doctor NN dobj
+
+18 What WP ROOT
+18 it PRP nsubj
+18 about IN dep
+18 that WDT nsubj
+18 prone JJ xcomp
+18 one CD nsubj
+18 more RBR advmod
+18 different JJ dep
+18 what WP nsubj
+18 that WDT nsubj
+18 type NN dobj
+
+19 have VB ROOT
+19 much JJ dep
+19 How WRB advmod
+19 you PRP nsubj
+19 change VB xcomp
+19 lifestyle NN dobj
+19 deal VB xcomp
+
+20 be VB ROOT
+20 What WP dobj
+20 diet NN nsubj
+20 when WRB advmod
+
+21 get VB ROOT
+21 you PRP nsubj
+21 ever RB advmod
+21 prick VB xcomp
+21 finger NN dobj
+21 sugar NN dobj
+
+22 What WP ROOT
+22 aspect NN nsubj
+22 most RBS advmod
+22 diabetes NN dobj
+
+23 affect VB ROOT
+23 How WRB advmod
+23 diabetes NNS nsubj
+23 life NN dobj
+
+24 troublesome JJ ROOT
+24 ages NNS advcl
+24 person NN nsubj
+24 diabetes NNS nsubj
+24 more RBR advmod
+24 treat VB ccomp
+
+25 understand VBP ROOT
+25 I PRP nsubj
+25 triggers NNS ccomp
+25 readings NNS nsubj
+25 diagnosis NN dobj
+25 doctor NN nsubj
+25 automatically RB advmod
+25 patient NN dobj
+25 still RB advmod
+25 patient NN iobj
+25 chance NN dobj
+25 levels NNS dobj
+25 down RB advmod
+
+26 read VBN ROOT
+26 I PRP nsubj
+26 reversed VBN ccomp
+26 diabetes NNS nsubj
+26 sometimes RB advmod
+26 habits. NN dobj
+26 true JJ dep
+26 this DT nsubj
+
+27 prevent VB ROOT
+27 diagnosed VBN advcl
+27 I PRP nsubjpass
+27 I PRP nsubj
+27 diabetes NNS dobj
+27 serious JJ advcl
+27 I PRP nsubj
+27 get VBP dep
+
+28 do VBP ROOT
+28 What WP dep
+28 we PRP nsubj
+28 address VB xcomp
+28 spread NN dobj
+
+29 make VB ROOT
+29 sorts NNS dobj
+29 person NN nsubj
+29 diagnosed VBN ccomp
+29 that WDT nsubjpass
+29 recently RB advmod
+
+30 prevented VBN ROOT
+30 diabetes NNS nsubjpass
+
+31 What WP ROOT
+31 ways NNS nsubj
+31 have VBP advcl
+31 you PRP nsubj
+31 diabetes NNS dobj
+31 Such JJ dep
+31 experiences NNS dep
+
+32 thing NN ROOT
+32 Diabetes NNS nsubj
+32 get VB dep
+32 you PRP nsubj
+32 diabetes NNS dobj
+32 just RB advmod
+32 weight NN dobj
+32 too RB advmod
+
+33 rid VBN ROOT
+33 thing NN advcl
+33 Diabetes NNP nsubj
+33 you PRP nsubjpass
+33 things NNS dobj
+33 weight NN dobj
+
+34 What WP ROOT
+34 symptoms NNS nsubj
+
+35 What WP ROOT
+35 step NN nsubj
+35 one PRP nsubj
+35 prevent VB xcomp
+35 getting VBG xcomp
+35 ever RB advmod
+35 diabetes NNS dobj
+
+36 have VBP ROOT
+36 person NN nsubj
+36 span NN dobj
+
+37 type VB ROOT
+37 minimized VBN ccomp
+37 symptoms NNS nsubjpass
+37 fully RB advmod
+37 alone RB advmod
+
+38 manage VB ROOT
+38 How WRB advmod
+38 you PRP nsubj
+38 factors NNS dobj
+38 diabetes NN dep
+
+39 What WP ROOT
+39 changes NNS nsubj
+39 most RBS advmod
+39 diabetic NN dep
+
+40 experienced VBD ROOT
+40 mother NN nsubj
+40 failure NN dobj
+40 long RB advmod
+40 not RB dep
+40 too RB advmod
+40 ago RB advmod
+40 II NNP nsubj
+40 years NNS dobj
+40 ago. FW dep
+40 caused VBN dep
+40 failure NN nsubjpass
+
+41 diabetes VBP ROOT
+41 likely JJ advcl
+41 it PRP nsubj
+41 Type NN ccomp
+41 diabetes NNS nsubj
+41 really RB advmod
+41 I PRP nsubj
+41 that WDT nsubj
+
+42 cured VBN ROOT
+42 diabetes NN nsubjpass
+42 completely RB advmod
+
+43 mean VB ROOT
+43 diabetes NNS nsubj
+43 am VBP ccomp
+43 I PRP nsubj
+
+44 test VB ROOT
+44 often RB advmod
+44 How WRB advmod
+44 I PRP nsubj
+44 sugar NN dobj
+44 what WP dobj
+44 I PRP nsubj
+44 high JJ advcl
+44 it PRP nsubj
+44 too RB advmod
+44 too RB advmod
+
+45 Are VBP ROOT
+45 medications NNS nsubj
+45 that WDT dobj
+45 I PRP nsubj
+45 help VB xcomp
+45 manage VB ccomp
+45 diabetes NN dobj
+
+46 lead VB ROOT
+46 diabetes NNS nsubj
+46 always RB advmod
+46 age NN dobj
+
+47 cause VB ROOT
+47 diabetes NN nsubj
+47 directly RB advmod
+47 risk NN dobj
+
+48 Is VBZ ROOT
+48 pre-disposition NN nsubj
+48 it PRP nsubjpass
+48 purely RB advmod
+
+49 cured VBN ROOT
+49 diabetes NNS nsubjpass
+49 ever RB advmod
+
+50 proactive JJ ROOT
+50 Why WRB advmod
+50 n't RB neg
+50 doctors NNS nsubj
+50 more RBR advmod
+50 avoid VB ccomp
+50 patients NNS nsubj
+50 issues NNS dobj
+50 that WDT nsubj
+50 etc FW advmod

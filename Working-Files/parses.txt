@@ -1,0 +1,1032 @@
+1	Input: Under what circumstances do those with diabetes need to give themselves an insulin injection ?
+
+Parse:
+need VBP ROOT
+ +-- Under IN prep
+ |   +-- circumstances NNS pobj
+ |       +-- what WDT det
+ +-- do VBP aux
+ +-- those DT nsubj
+ |   +-- with IN prep
+ |       +-- diabetes NNS pobj
+ +-- give VB xcomp
+ |   +-- to TO aux
+ |   +-- themselves PRP iobj
+ |   +-- injection NN dobj
+ |       +-- an DT det
+ |       +-- insulin NN nn
+ +-- ? . punct
+2	Input: Is diabetes something that can be overcome or when someone has it , do they have it for life ?
+
+Parse:
+something NN ROOT
+ +-- Is VBZ cop
+ +-- diabetes NNS nsubj
+ +-- overcome VBN rcmod
+ |   +-- that WDT nsubjpass
+ |   +-- can MD aux
+ |   +-- be VB auxpass
+ |   +-- or CC cc
+ |   +-- have VB conj
+ |       +-- has VBZ advcl
+ |       |   +-- when WRB advmod
+ |       |   +-- someone NN nsubj
+ |       |   +-- it PRP dobj
+ |       +-- , , punct
+ |       +-- do VB aux
+ |       +-- they PRP nsubj
+ |       +-- it PRP dobj
+ |       +-- for IN prep
+ |           +-- life NN pobj
+ +-- ? . punct
+3	Input: What kind of special diet does someone with diabetes need to follow and are there any foods they can not have at all ?
+
+Parse:
+need VB ROOT
+ +-- kind NN dobj
+ |   +-- What WDT det
+ |   +-- of IN prep
+ |       +-- diet NN pobj
+ |           +-- special JJ amod
+ +-- does VBZ aux
+ +-- someone NN nsubj
+ |   +-- with IN prep
+ |       +-- diabetes NNS pobj
+ +-- follow VB xcomp
+ |   +-- to TO aux
+ +-- and CC cc
+ +-- are VBP conj
+ |   +-- there EX expl
+ |   +-- foods NNS nsubj
+ |       +-- any DT det
+ |       +-- have VB rcmod
+ |           +-- they PRP nsubj
+ |           +-- can MD aux
+ |           +-- not RB neg
+ |           +-- all RB advmod
+ |               +-- at RB advmod
+ +-- ? . punct
+4	Input: Under what circumstances is a ketogenic diet an effective treatment ?
+
+Parse:
+treatment NN ROOT
+ +-- Under IN prep
+ |   +-- circumstances NNS pobj
+ |       +-- what WDT det
+ +-- is VBZ cop
+ +-- diet NN nsubj
+ |   +-- a DT det
+ |   +-- ketogenic JJ amod
+ +-- an DT det
+ +-- effective JJ amod
+ +-- ? . punct
+5	Input: To what extent does it exist on a spectrum , such that people may be classified according to the degree to which they are diabetic , even if they are not diagnosable as diabetic according to present criteria ?
+
+Parse:
+exist VB ROOT
+ +-- To IN prep
+ |   +-- extent NN pobj
+ |       +-- what WDT det
+ +-- does VBZ aux
+ +-- it PRP nsubj
+ +-- on IN prep
+ |   +-- spectrum NN pobj
+ |       +-- a DT det
+ |       +-- , , punct
+ |       +-- classified VBN dep
+ |           +-- such JJ dep
+ |           +-- that IN mark
+ |           +-- people NNS nsubjpass
+ |           +-- may MD aux
+ |           +-- be VB auxpass
+ |           +-- according VBG prep
+ |               +-- to IN pcomp
+ |                   +-- degree NN pobj
+ |                       +-- the DT det
+ |                       +-- diabetic JJ rcmod
+ |                           +-- to TO prep
+ |                           |   +-- which WDT pobj
+ |                           +-- they PRP nsubj
+ |                           +-- are VBP cop
+ +-- , , punct
+ +-- diagnosable JJ advcl
+ |   +-- even RB advmod
+ |   +-- if IN mark
+ |   +-- they PRP nsubj
+ |   +-- are VBP cop
+ |   +-- not RB neg
+ |   +-- as IN prep
+ |   |   +-- diabetic JJ pobj
+ |   +-- according VBG prep
+ |       +-- to IN pcomp
+ |           +-- criteria NNS pobj
+ |               +-- present JJ amod
+ +-- ? . punct
+6	Input: Given the role of mitochondrial dysfunction in the pathogenesis of diabetes , what relation might the disease have to other diseases involving mitochondrial dysfunction , such as cancer ?
+
+Parse:
+have VB ROOT
+ +-- Given VBN prep
+ |   +-- role NN dep
+ |       +-- the DT det
+ |       +-- of IN prep
+ |       |   +-- dysfunction NN pobj
+ |       |       +-- mitochondrial JJ amod
+ |       +-- in IN prep
+ |           +-- pathogenesis NN pobj
+ |               +-- the DT det
+ |               +-- of IN prep
+ |                   +-- diabetes NNS pobj
+ +-- , , punct
+ +-- relation NN dobj
+ |   +-- what WDT det
+ +-- might MD aux
+ +-- disease NN nsubj
+ |   +-- the DT det
+ +-- to IN prep
+ |   +-- diseases NNS pobj
+ |       +-- other JJ amod
+ |       +-- involving VBG partmod
+ |       |   +-- dysfunction NN dobj
+ |       |       +-- mitochondrial JJ amod
+ |       +-- , , punct
+ |       +-- as IN prep
+ |           +-- such JJ mwe
+ |           +-- cancer NN pobj
+ +-- ? . punct
+7	Input: What are some early symptoms related to diabetes
+
+Parse:
+What WP ROOT
+ +-- are VBP cop
+ +-- symptoms NNS nsubj
+     +-- some DT det
+     +-- early JJ amod
+     +-- related VBN partmod
+         +-- to IN prep
+             +-- diabetes NN pobj
+8	Input: How can one contract diabetes so late in life ?
+
+Parse:
+contract NN ROOT
+ +-- How WRB advmod
+ +-- can MD aux
+ +-- one PRP nsubj
+ +-- diabetes NN dobj
+ +-- late RB advmod
+ |   +-- so RB advmod
+ |   +-- in IN prep
+ |       +-- life NN pobj
+ +-- ? . punct
+9	Input: Does eating a lot of sweets cause diabetes ?
+
+Parse:
+eating VBG ROOT
+ +-- Does VBZ aux
+ +-- lot NN dobj
+ |   +-- a DT det
+ |   +-- of IN prep
+ |       +-- diabetes NN pobj
+ |           +-- cause NN nn
+ |               +-- sweets NNS nn
+ +-- ? . punct
+10	Input: What specifically causes Type 1 diabetes ?
+
+Parse:
+causes VBZ ROOT
+ +-- What WP nsubj
+ +-- specifically RB advmod
+ +-- diabetes NN dobj
+ |   +-- Type NN nn
+ |       +-- 1 CD num
+ +-- ? . punct
+11	Input: Is Type 1 diabetes preventable at all ?
+
+Parse:
+preventable JJ ROOT
+ +-- Is VBZ cop
+ +-- diabetes NN nsubj
+ |   +-- Type NN nn
+ |       +-- 1 CD num
+ +-- all RB advmod
+ |   +-- at IN advmod
+ +-- ? . punct
+12	Input: What are foods besides candy and other high sugar foods that diabetics should avoid ?
+
+Parse:
+What WP ROOT
+ +-- are VBP cop
+ +-- foods NNS nsubj
+ |   +-- besides IN prep
+ |   |   +-- candy NN pobj
+ |   |       +-- and CC cc
+ |   |       +-- foods NNS conj
+ |   |           +-- other JJ amod
+ |   |           +-- sugar NN nn
+ |   |               +-- high JJ amod
+ |   +-- avoid VB rcmod
+ |       +-- that WDT dobj
+ |       +-- diabetics NNS nsubj
+ |       +-- should MD aux
+ +-- ? . punct
+13	Input: I have heard the phrase 1.5 diabetes , and would like to know it 's basis .
+
+Parse:
+heard VBN ROOT
+ +-- I PRP nsubj
+ +-- have VBP aux
+ +-- phrase NN dobj
+ |   +-- the DT det
+ |   +-- diabetes NNS dep
+ |       +-- 1.5 CD num
+ +-- , , punct
+ +-- and CC cc
+ +-- like VB conj
+ |   +-- would MD aux
+ |   +-- know VB xcomp
+ |       +-- to TO aux
+ |       +-- basis NN ccomp
+ |           +-- it PRP nsubj
+ |           +-- 's VBZ cop
+ +-- . . punct
+14	Input: On what part of their body do diabetics inject insulin ?
+
+Parse:
+inject VB ROOT
+ +-- On IN prep
+ |   +-- part NN pobj
+ |       +-- what WDT det
+ |       +-- of IN prep
+ |           +-- body NN pobj
+ |               +-- their PRP$ poss
+ +-- do VBP aux
+ +-- diabetics NNS nsubj
+ +-- insulin NN dobj
+ +-- ? . punct
+15	Input: Does cholesterol play a factor in the diagnoses of diabetes ?
+
+Parse:
+play VB ROOT
+ +-- Does VBZ aux
+ +-- cholesterol NN nsubj
+ +-- factor NN dobj
+ |   +-- a DT det
+ +-- in IN prep
+ |   +-- diagnoses NNS pobj
+ |       +-- the DT det
+ |       +-- of IN prep
+ |           +-- diabetes NN pobj
+ +-- ? . punct
+16	Input: Fat acceptance advocates state that `` most overweight people never develop type 2 diabetes '' , so if this is true , why is Type 2 diabetes considered a fat person disease ?
+
+Parse:
+advocates VBZ ROOT
+ +-- acceptance NN nsubj
+ |   +-- Fat JJ amod
+ +-- state NN dobj
+ +-- develop VBP ccomp
+ |   +-- that IN mark
+ |   +-- `` `` punct
+ |   +-- people NNS nsubj
+ |   |   +-- most JJS amod
+ |   |   +-- overweight JJ amod
+ |   +-- never RB neg
+ |   +-- type NN dobj
+ |   |   +-- diabetes NN dep
+ |   |       +-- 2 CD num
+ |   +-- '' '' punct
+ +-- , , punct
+ +-- so CC cc
+ +-- Type VBN conj
+ |   +-- true JJ advcl
+ |   |   +-- if IN mark
+ |   |   +-- this DT nsubj
+ |   |   +-- is VBZ cop
+ |   +-- , , punct
+ |   +-- why WRB advmod
+ |   +-- is VBZ auxpass
+ |   +-- diabetes NNS dobj
+ |       +-- 2 CD num
+ |       +-- considered VBN partmod
+ |           +-- disease NN dep
+ |               +-- a DT det
+ |               +-- person NN nn
+ |                   +-- fat JJ amod
+ +-- ? . punct
+17	Input: If you suspect you have Type 2 diabetes , at which point will it become impossible for you to reverse it by only changing your diet and exercise habits -LRB- and without requiring medication or the need to see a doctor ? -RRB-
+
+Parse:
+have VBP ROOT
+ +-- suspect VBP advcl
+ |   +-- If IN mark
+ |   +-- you PRP nsubj
+ +-- you PRP nsubj
+ +-- diabetes NNS dobj
+ |   +-- Type NN nn
+ |       +-- 2 CD num
+ +-- , , punct
+ +-- impossible JJ ccomp
+ |   +-- at IN prep
+ |   |   +-- point NN pobj
+ |   |       +-- which WDT det
+ |   +-- will MD aux
+ |   +-- it PRP nsubj
+ |   +-- become VB cop
+ |   +-- reverse VB advcl
+ |       +-- for IN mark
+ |       +-- you PRP nsubj
+ |       +-- to TO aux
+ |       +-- it PRP dobj
+ |       +-- by IN prep
+ |           +-- changing VBG pcomp
+ |               +-- only RB advmod
+ |               +-- habits NNS dobj
+ |               |   +-- your PRP$ poss
+ |               |   +-- diet NN nn
+ |               |       +-- and CC cc
+ |               |       +-- exercise NN conj
+ |               +-- -LRB- -LRB- punct
+ |               +-- and CC cc
+ |               +-- without IN conj
+ |                   +-- requiring VBG pcomp
+ |                       +-- medication NN dobj
+ |                           +-- or CC cc
+ |                           +-- need NN conj
+ |                               +-- the DT det
+ |                               +-- see VB infmod
+ |                                   +-- to TO aux
+ |                                   +-- doctor NN dobj
+ |                                       +-- a DT det
+ +-- ? . punct
+ +-- -RRB- -RRB- punct
+18	Input: What is it about being obese that makes one more prone to Type 2 diabetes - what 's different about an obese body that invites this type of diabetes ?
+
+Parse:
+What WP ROOT
+ +-- is VBZ cop
+ +-- it PRP nsubj
+ +-- about IN dep
+ |   +-- obese JJ pcomp
+ |       +-- being VBG cop
+ |       +-- makes VBZ rcmod
+ |       |   +-- that WDT nsubj
+ |       |   +-- prone JJ xcomp
+ |       |       +-- one CD nsubj
+ |       |       +-- more RBR advmod
+ |       |       +-- to IN prep
+ |       |           +-- diabetes NN pobj
+ |       |               +-- Type NN nn
+ |       |                   +-- 2 CD num
+ |       +-- - : punct
+ |       +-- different JJ dep
+ |           +-- what WP nsubj
+ |           +-- 's VBZ cop
+ |           +-- about IN prep
+ |               +-- body NN pobj
+ |                   +-- an DT det
+ |                   +-- obese JJ amod
+ |                   +-- invites VBZ rcmod
+ |                       +-- that WDT nsubj
+ |                       +-- type NN dobj
+ |                           +-- this DT det
+ |                           +-- of IN prep
+ |                               +-- diabetes NN pobj
+ +-- ? . punct
+19	Input: How much will you have to change your lifestyle to deal with diabetes ?
+
+Parse:
+have VB ROOT
+ +-- much JJ dep
+ |   +-- How WRB advmod
+ +-- will MD aux
+ +-- you PRP nsubj
+ +-- change VB xcomp
+ |   +-- to TO aux
+ |   +-- lifestyle NN dobj
+ |   |   +-- your PRP$ poss
+ |   +-- deal VB xcomp
+ |       +-- to TO aux
+ |       +-- with IN prep
+ |           +-- diabetes NN pobj
+ +-- ? . punct
+20	Input: What will your diet be like when dealing with diabetes ?
+
+Parse:
+be VB ROOT
+ +-- What WP dobj
+ +-- will MD aux
+ +-- diet NN nsubj
+ |   +-- your PRP$ poss
+ +-- like IN prep
+ |   +-- dealing VBG pcomp
+ |       +-- when WRB advmod
+ |       +-- with IN prep
+ |           +-- diabetes NNS pobj
+ +-- ? . punct
+21	Input: Do you ever get over having to prick your finger in order to test your blood sugar ?
+
+Parse:
+get VB ROOT
+ +-- Do VBP aux
+ +-- you PRP nsubj
+ +-- ever RB advmod
+ +-- over IN prep
+ |   +-- having VBG pcomp
+ |       +-- prick VB xcomp
+ |           +-- to TO aux
+ |           +-- finger NN dobj
+ |           |   +-- your PRP$ poss
+ |           +-- in IN prep
+ |               +-- order NN pobj
+ |                   +-- test VB infmod
+ |                       +-- to TO aux
+ |                       +-- sugar NN dobj
+ |                           +-- your PRP$ poss
+ |                           +-- blood NN nn
+ +-- ? . punct
+22	Input: What is the most painful aspect of having diabetes ?
+
+Parse:
+What WP ROOT
+ +-- is VBZ cop
+ +-- aspect NN nsubj
+ |   +-- the DT det
+ |   +-- painful JJ amod
+ |   |   +-- most RBS advmod
+ |   +-- of IN prep
+ |       +-- having VBG pcomp
+ |           +-- diabetes NN dobj
+ +-- ? . punct
+23	Input: How does diabetes affect a person 's daily life and activities ?
+
+Parse:
+affect VB ROOT
+ +-- How WRB advmod
+ +-- does VBZ aux
+ +-- diabetes NNS nsubj
+ +-- life NN dobj
+ |   +-- person NN poss
+ |   |   +-- a DT det
+ |   |   +-- 's POS possessive
+ |   +-- daily JJ amod
+ |   +-- and CC cc
+ |   +-- activities NNS conj
+ +-- ? . punct
+24	Input: As a person ages , does diabetes become more troublesome and harder to treat ?
+
+Parse:
+troublesome JJ ROOT
+ +-- ages NNS advcl
+ |   +-- As IN mark
+ |   +-- person NN nsubj
+ |       +-- a DT det
+ +-- , , punct
+ +-- does VBZ aux
+ +-- diabetes NNS nsubj
+ +-- become VB cop
+ +-- more RBR advmod
+ +-- and CC cc
+ +-- harder JJR conj
+ |   +-- treat VB ccomp
+ |       +-- to TO aux
+ +-- ? . punct
+25	Input: I understand that two fasting readings over 126 triggers a diagnosis of diabetes II , but will a doctor automatically put a patient on medication at this point , or still give the patient a chance to bring those levels down with diet and/or exercise ?
+
+Parse:
+understand VBP ROOT
+ +-- I PRP nsubj
+ +-- triggers NNS ccomp
+ |   +-- that IN mark
+ |   +-- readings NNS nsubj
+ |   |   +-- two CD num
+ |   |   +-- fasting VBG amod
+ |   |   +-- over IN prep
+ |   |       +-- 126 CD pobj
+ |   +-- diagnosis NN dobj
+ |       +-- a DT det
+ |       +-- of IN prep
+ |           +-- diabetes NN pobj
+ |               +-- II CD num
+ +-- , , punct
+ +-- but CC cc
+ +-- put VB conj
+ |   +-- will MD aux
+ |   +-- doctor NN nsubj
+ |   |   +-- a DT det
+ |   +-- automatically RB advmod
+ |   +-- patient NN dobj
+ |   |   +-- a DT det
+ |   +-- on IN prep
+ |   |   +-- medication NN pobj
+ |   +-- at IN prep
+ |   |   +-- point NN pobj
+ |   |       +-- this DT det
+ |   +-- , , punct
+ |   +-- or CC cc
+ |   +-- still RB advmod
+ |   +-- give VB conj
+ |       +-- patient NN iobj
+ |       |   +-- the DT det
+ |       +-- chance NN dobj
+ |           +-- a DT det
+ |           +-- bring VB infmod
+ |               +-- to TO aux
+ |               +-- levels NNS dobj
+ |               |   +-- those DT det
+ |               +-- down RB advmod
+ |               +-- with IN prep
+ |                   +-- exercise NN pobj
+ |                       +-- and/or DT nn
+ |                           +-- diet NN nn
+ +-- ? . punct
+26	Input: I have read that Type II diabetes can sometimes be reversed with a substantial change in diet and exercise habits. Is this true ?
+
+Parse:
+read VBN ROOT
+ +-- I PRP nsubj
+ +-- have VBP aux
+ +-- reversed VBN ccomp
+ |   +-- that IN mark
+ |   +-- diabetes NNS nsubj
+ |   |   +-- Type NN nn
+ |   |       +-- II CD num
+ |   +-- can MD aux
+ |   +-- sometimes RB advmod
+ |   +-- be VB auxpass
+ |   +-- with IN prep
+ |   |   +-- change NN pobj
+ |   |       +-- a DT det
+ |   |       +-- substantial JJ amod
+ |   |       +-- in IN prep
+ |   |           +-- diet NN pobj
+ |   +-- and CC cc
+ |   +-- exercise VB conj
+ |       +-- habits. NN dobj
+ |       +-- true JJ dep
+ |           +-- Is VBZ cop
+ |           +-- this DT nsubj
+ +-- ? . punct
+27	Input: If I have been diagnosed with pre-diabetes , can I prevent full-blown diabetes if I get serious about good eating habits and exercise ?
+
+Parse:
+prevent VB ROOT
+ +-- diagnosed VBN advcl
+ |   +-- If IN mark
+ |   +-- I PRP nsubjpass
+ |   +-- have VBP aux
+ |   +-- been VBN auxpass
+ |   +-- with IN prep
+ |       +-- pre-diabetes NNS pobj
+ +-- , , punct
+ +-- can MD aux
+ +-- I PRP nsubj
+ +-- diabetes NNS dobj
+ |   +-- full-blown JJ amod
+ +-- serious JJ advcl
+ |   +-- if IN mark
+ |   +-- I PRP nsubj
+ |   +-- get VBP dep
+ |   +-- about IN prep
+ |   |   +-- habits NNS pobj
+ |   |       +-- good JJ amod
+ |   |       +-- eating NN nn
+ |   +-- and CC cc
+ |   +-- exercise VB conj
+ +-- ? . punct
+28	Input: What can we as a community do to address and stop the spread of diabetes ?
+
+Parse:
+do VBP ROOT
+ +-- What WP dep
+ +-- can MD aux
+ +-- we PRP nsubj
+ |   +-- as IN prep
+ |       +-- community NN pobj
+ |           +-- a DT det
+ +-- address VB xcomp
+ |   +-- to TO aux
+ |   +-- and CC cc
+ |   +-- stop VB conj
+ |   +-- spread NN dobj
+ |       +-- the DT det
+ |       +-- of IN prep
+ |           +-- diabetes NN pobj
+ +-- ? . punct
+29	Input: What sorts of lifestyle changes should a person make that has recently been diagnosed with diabetes ?
+
+Parse:
+make VB ROOT
+ +-- sorts NNS dobj
+ |   +-- What WDT det
+ |   +-- of IN prep
+ |       +-- changes NNS pobj
+ |           +-- lifestyle NN nn
+ +-- should MD aux
+ +-- person NN nsubj
+ |   +-- a DT det
+ +-- diagnosed VBN ccomp
+ |   +-- that WDT nsubjpass
+ |   +-- has VBZ aux
+ |   +-- recently RB advmod
+ |   +-- been VBN auxpass
+ |   +-- with IN prep
+ |       +-- diabetes NN pobj
+ +-- ? . punct
+30	Input: Can diabetes be prevented at a young age ?
+
+Parse:
+prevented VBN ROOT
+ +-- Can MD aux
+ +-- diabetes NNS nsubjpass
+ +-- be VB auxpass
+ +-- at IN prep
+ |   +-- age NN pobj
+ |       +-- a DT det
+ |       +-- young JJ amod
+ +-- ? . punct
+31	Input: What are ways to tell if you have diabetes ? -LRB- Such as symptoms someone experiences -RRB-
+
+Parse:
+What WP ROOT
+ +-- are VBP cop
+ +-- ways NNS nsubj
+ |   +-- tell VB infmod
+ |       +-- to TO aux
+ |       +-- have VBP advcl
+ |           +-- if IN mark
+ |           +-- you PRP nsubj
+ |           +-- diabetes NNS dobj
+ +-- ? . punct
+ +-- -LRB- -LRB- punct
+ +-- Such JJ dep
+ |   +-- as IN prep
+ |       +-- symptoms NNS pobj
+ |           +-- experiences NNS dep
+ |               +-- someone NN nn
+ +-- -RRB- -RRB- punct
+32	Input: Is `` Adult Onset Diabetes '' a real thing , can you get diabetes from just gaining too much weight ?
+
+Parse:
+thing NN ROOT
+ +-- Is VBZ cop
+ +-- Diabetes NNS nsubj
+ |   +-- `` `` punct
+ |   +-- Adult JJ amod
+ |   +-- Onset NN nn
+ |   +-- '' '' punct
+ +-- a DT det
+ +-- real JJ amod
+ +-- , , punct
+ +-- get VB dep
+ |   +-- can MD aux
+ |   +-- you PRP nsubj
+ |   +-- diabetes NNS dobj
+ |   +-- from IN prep
+ |       +-- gaining VBG pcomp
+ |           +-- just RB advmod
+ |           +-- weight NN dobj
+ |               +-- much JJ amod
+ |                   +-- too RB advmod
+ +-- ? . punct
+33	Input: If Adult Onset Diabetes is a real thing can you get rid of diabetes by doing things such as losing weight ?
+
+Parse:
+rid VBN ROOT
+ +-- thing NN advcl
+ |   +-- If IN mark
+ |   +-- Diabetes NNP nsubj
+ |   |   +-- Adult NNP amod
+ |   |   +-- Onset NNP nn
+ |   +-- is VBZ cop
+ |   +-- a DT det
+ |   +-- real JJ amod
+ +-- can MD aux
+ +-- you PRP nsubjpass
+ +-- get VB auxpass
+ +-- of IN prep
+ |   +-- diabetes NNS pobj
+ +-- by IN prep
+ |   +-- doing VBG pcomp
+ |       +-- things NNS dobj
+ |           +-- as IN prep
+ |               +-- such JJ mwe
+ |               +-- losing VBG pcomp
+ |                   +-- weight NN dobj
+ +-- ? . punct
+34	Input: What are the first symptoms of diabetes ?
+
+Parse:
+What WP ROOT
+ +-- are VBP cop
+ +-- symptoms NNS nsubj
+ |   +-- the DT det
+ |   +-- first JJ amod
+ |   +-- of IN prep
+ |       +-- diabetes NNS pobj
+ +-- ? . punct
+35	Input: What is the biggest step one can take to prevent ever getting diabetes ?
+
+Parse:
+What WP ROOT
+ +-- is VBZ cop
+ +-- step NN nsubj
+ |   +-- the DT det
+ |   +-- biggest JJS amod
+ |   +-- take VB rcmod
+ |       +-- one PRP nsubj
+ |       +-- can MD aux
+ |       +-- prevent VB xcomp
+ |           +-- to TO aux
+ |           +-- getting VBG xcomp
+ |               +-- ever RB advmod
+ |               +-- diabetes NNS dobj
+ +-- ? . punct
+36	Input: Does a person with diabetes have a shorter life span than those without diabetes ?
+
+Parse:
+have VBP ROOT
+ +-- Does VBZ aux
+ +-- person NN nsubj
+ |   +-- a DT det
+ |   +-- with IN prep
+ |       +-- diabetes NNS pobj
+ +-- span NN dobj
+ |   +-- a DT det
+ |   +-- shorter JJR amod
+ |   +-- life NN nn
+ |   +-- than IN prep
+ |       +-- those DT pobj
+ |           +-- without IN prep
+ |               +-- diabetes NNS pobj
+ +-- ? . punct
+37	Input: Can type 2 diabetes symptoms be minimized , or fully cured , through lifestyle changes alone ?
+
+Parse:
+type VB ROOT
+ +-- Can MD aux
+ +-- minimized VBN ccomp
+ |   +-- symptoms NNS nsubjpass
+ |   |   +-- 2 CD num
+ |   |   +-- diabetes NN nn
+ |   +-- be VB auxpass
+ |   +-- , , punct
+ |   +-- or CC cc
+ |   +-- fully RB advmod
+ |   +-- cured VBN conj
+ |       +-- , , punct
+ |       +-- through IN prep
+ |           +-- changes NNS pobj
+ |               +-- lifestyle NN nn
+ |               +-- alone RB advmod
+ +-- ? . punct
+38	Input: How can you manage genetic risk factors for type 2 diabetes ?
+
+Parse:
+manage VB ROOT
+ +-- How WRB advmod
+ +-- can MD aux
+ +-- you PRP nsubj
+ +-- factors NNS dobj
+ |   +-- risk NN nn
+ |   |   +-- genetic JJ amod
+ |   +-- for IN prep
+ |       +-- type NN pobj
+ |           +-- diabetes NN dep
+ |               +-- 2 CD num
+ +-- ? . punct
+39	Input: What are the most important lifestyle changes for a type 2 diabetic to pursue ?
+
+Parse:
+What WP ROOT
+ +-- are VBP cop
+ +-- changes NNS nsubj
+ |   +-- the DT det
+ |   +-- important JJ amod
+ |   |   +-- most RBS advmod
+ |   +-- lifestyle NN nn
+ |   +-- for IN prep
+ |       +-- type NN pobj
+ |           +-- a DT det
+ |           +-- diabetic NN dep
+ |               +-- 2 CD num
+ |               +-- pursue VB infmod
+ |                   +-- to TO aux
+ +-- ? . punct
+40	Input: My mother experienced complete liver failure not too long ago , and was diagnosed with Type II diabetes about 10 years ago. Could liver failure have been caused by diabetes ?
+
+Parse:
+experienced VBD ROOT
+ +-- mother NN nsubj
+ |   +-- My PRP$ poss
+ +-- failure NN dobj
+ |   +-- complete JJ amod
+ |   +-- liver NN nn
+ +-- long RB advmod
+ |   +-- not RB dep
+ |   +-- too RB advmod
+ |   +-- ago RB advmod
+ +-- , , punct
+ +-- and CC cc
+ +-- diagnosed VBN conj
+ |   +-- was VBD auxpass
+ |   +-- with IN prep
+ |   |   +-- diabetes NN pcomp
+ |   |       +-- II NNP nsubj
+ |   |       |   +-- Type NN nn
+ |   |       +-- years NNS dobj
+ |   |           +-- 10 CD num
+ |   |           |   +-- about RB quantmod
+ |   |           +-- ago. FW dep
+ |   +-- caused VBN dep
+ |       +-- Could MD aux
+ |       +-- failure NN nsubjpass
+ |       |   +-- liver NN nn
+ |       +-- have VBP aux
+ |       +-- been VBN auxpass
+ |       +-- by IN prep
+ |           +-- diabetes NNS pobj
+ +-- ? . punct
+41	Input: Is it likely that Type II diabetes could really be Type I diabetes that went undiagnosed for decades ?
+
+Parse:
+diabetes VBP ROOT
+ +-- likely JJ advcl
+ |   +-- Is VBZ cop
+ |   +-- it PRP nsubj
+ |   +-- Type NN ccomp
+ |       +-- that IN mark
+ |       +-- diabetes NNS nsubj
+ |       |   +-- Type NN nn
+ |       |       +-- II CD num
+ |       +-- could MD aux
+ |       +-- really RB advmod
+ |       +-- be VB cop
+ +-- I PRP nsubj
+ +-- went VBD rcmod
+ |   +-- that WDT nsubj
+ |   +-- undiagnosed JJ acomp
+ |   +-- for IN prep
+ |       +-- decades NNS pobj
+ +-- ? . punct
+42	Input: Can Type II diabetes be cured completely ?
+
+Parse:
+cured VBN ROOT
+ +-- Can MD aux
+ +-- diabetes NN nsubjpass
+ |   +-- Type VB nn
+ |       +-- II CD num
+ +-- be VB auxpass
+ +-- completely RB advmod
+ +-- ? . punct
+43	Input: Does having diabetes mean that I am at higher risk for other medical problems ?
+
+Parse:
+mean VB ROOT
+ +-- Does VBZ aux
+ +-- having VBG aux
+ +-- diabetes NNS nsubj
+ +-- am VBP ccomp
+ |   +-- that IN mark
+ |   +-- I PRP nsubj
+ |   +-- at IN prep
+ |       +-- risk NN pobj
+ |           +-- higher JJR amod
+ |           +-- for IN prep
+ |               +-- problems NNS pobj
+ |                   +-- other JJ amod
+ |                   +-- medical JJ amod
+ +-- ? . punct
+44	Input: How often should I test my blood sugar , and what should I do if it is too high or too low ?
+
+Parse:
+test VB ROOT
+ +-- often RB advmod
+ |   +-- How WRB advmod
+ +-- should MD aux
+ +-- I PRP nsubj
+ +-- sugar NN dobj
+ |   +-- my PRP$ poss
+ |   +-- blood NN nn
+ +-- , , punct
+ +-- and CC cc
+ +-- do VB conj
+ |   +-- what WP dobj
+ |   +-- should MD aux
+ |   +-- I PRP nsubj
+ |   +-- high JJ advcl
+ |       +-- if IN mark
+ |       +-- it PRP nsubj
+ |       +-- is VBZ cop
+ |       +-- too RB advmod
+ |       +-- or CC cc
+ |       +-- low JJ conj
+ |           +-- too RB advmod
+ +-- ? . punct
+45	Input: Are there any new medications that I could use to help manage my diabetes ?
+
+Parse:
+Are VBP ROOT
+ +-- there EX expl
+ +-- medications NNS nsubj
+ |   +-- any DT det
+ |   +-- new JJ amod
+ |   +-- use VB rcmod
+ |       +-- that WDT dobj
+ |       +-- I PRP nsubj
+ |       +-- could MD aux
+ |       +-- help VB xcomp
+ |           +-- to TO aux
+ |           +-- manage VB ccomp
+ |               +-- diabetes NN dobj
+ |                   +-- my PRP$ poss
+ +-- ? . punct
+46	Input: Does diabetes always lead to limb complication with progressing age ?
+
+Parse:
+lead VB ROOT
+ +-- Does VBZ aux
+ +-- diabetes NNS nsubj
+ +-- always RB advmod
+ +-- to IN prep
+ |   +-- complication NN pobj
+ |       +-- limb NN nn
+ +-- with IN prep
+ |   +-- progressing VBG pcomp
+ |       +-- age NN dobj
+ +-- ? . punct
+47	Input: Does diabetes directly cause , or increase the risk of other serious diseases ?
+
+Parse:
+cause VB ROOT
+ +-- Does VBZ aux
+ +-- diabetes NN nsubj
+ +-- directly RB advmod
+ +-- , , punct
+ +-- or CC cc
+ +-- increase VB conj
+ |   +-- risk NN dobj
+ |       +-- the DT det
+ |       +-- of IN prep
+ |           +-- diseases NNS pobj
+ |               +-- other JJ amod
+ |               +-- serious JJ amod
+ +-- ? . punct
+48	Input: Is there a genetic pre-disposition to diabetes ? Or is it purely based on diet ?
+
+Parse:
+Is VBZ ROOT
+ +-- there EX expl
+ +-- pre-disposition NN nsubj
+ |   +-- a DT det
+ |   +-- genetic JJ amod
+ |   +-- to IN prep
+ |       +-- diabetes NN pobj
+ +-- ? . punct
+ +-- Or CC cc
+ +-- based VBN conj
+     +-- is VBZ auxpass
+     +-- it PRP nsubjpass
+     +-- purely RB advmod
+     +-- on IN prep
+         +-- diet NN pobj
+49	Input: Will diabetes ever be `` cured '' ?
+
+Parse:
+cured VBN ROOT
+ +-- Will MD aux
+ +-- diabetes NNS nsubjpass
+ +-- ever RB advmod
+ +-- be VB auxpass
+ +-- `` `` punct
+ +-- '' '' punct
+ +-- ? . punct
+50	Input: Why are n't doctors more proactive in helping patients avoid the other issues that may form over time , such as depression , neuropathy , etc ?
+
+Parse:
+proactive JJ ROOT
+ +-- Why WRB advmod
+ +-- are VBP cop
+ +-- n't RB neg
+ +-- doctors NNS nsubj
+ +-- more RBR advmod
+ +-- in IN prep
+ |   +-- helping VBG pcomp
+ |       +-- avoid VB ccomp
+ |           +-- patients NNS nsubj
+ |           +-- issues NNS dobj
+ |               +-- the DT det
+ |               +-- other JJ amod
+ |               +-- form VB rcmod
+ |               |   +-- that WDT nsubj
+ |               |   +-- may MD aux
+ |               |   +-- over IN prep
+ |               |       +-- time NN pobj
+ |               +-- , , punct
+ |               +-- as IN prep
+ |                   +-- such JJ mwe
+ |                   +-- depression NN pobj
+ |                       +-- , , punct
+ |                       +-- neuropathy JJ appos
+ |                       +-- etc FW advmod
+ +-- ? . punct

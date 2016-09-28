@@ -1,0 +1,172 @@
+1 those DT nsubj
+
+2 diabetes NNS nsubj
+
+2 someone NN nsubj
+
+2 they PRP nsubj
+
+3 someone NN nsubj
+
+3 foods NNS nsubj
+
+3 they PRP nsubj
+
+4 diet NN nsubj
+
+5 it PRP nsubj
+
+5 they PRP nsubj
+
+5 they PRP nsubj
+
+6 disease NN nsubj
+
+7 symptoms NNS nsubj
+
+8 one PRP nsubj
+
+9
+
+10 What WP nsubj
+
+11 diabetes NN nsubj
+
+12 foods NNS nsubj
+
+12 diabetics NNS nsubj
+
+13 I PRP nsubj
+
+13 it PRP nsubj
+
+14 diabetics NNS nsubj
+
+15 cholesterol NN nsubj
+
+16 acceptance NN nsubj
+
+16 people NNS nsubj
+
+16 this DT nsubj
+
+17 you PRP nsubj
+
+17 you PRP nsubj
+
+17 it PRP nsubj
+
+17 you PRP nsubj
+
+18 it PRP nsubj
+
+18 that WDT nsubj
+
+18 one CD nsubj
+
+18 what WP nsubj
+
+18 that WDT nsubj
+
+19 you PRP nsubj
+
+20 diet NN nsubj
+
+21 you PRP nsubj
+
+22 aspect NN nsubj
+
+23 diabetes NNS nsubj
+
+24 person NN nsubj
+
+24 diabetes NNS nsubj
+
+25 I PRP nsubj
+
+25 readings NNS nsubj
+
+25 doctor NN nsubj
+
+26 I PRP nsubj
+
+26 diabetes NNS nsubj
+
+26 this DT nsubj
+
+27 I PRP nsubj
+
+27 I PRP nsubj
+
+28 we PRP nsubj
+
+29 person NN nsubj
+
+30
+
+31 ways NNS nsubj
+
+31 you PRP nsubj
+
+32 Diabetes NNS nsubj
+
+32 you PRP nsubj
+
+33 Diabetes NNP nsubj
+
+34 symptoms NNS nsubj
+
+35 step NN nsubj
+
+35 one PRP nsubj
+
+36 person NN nsubj
+
+37
+
+38 you PRP nsubj
+
+39 changes NNS nsubj
+
+40 mother NN nsubj
+
+40 II NNP nsubj
+
+41 it PRP nsubj
+
+41 diabetes NNS nsubj
+
+41 I PRP nsubj
+
+41 that WDT nsubj
+
+42
+
+43 diabetes NNS nsubj
+
+43 I PRP nsubj
+
+44 I PRP nsubj
+
+44 I PRP nsubj
+
+44 it PRP nsubj
+
+45 medications NNS nsubj
+
+45 I PRP nsubj
+
+46 diabetes NNS nsubj
+
+47 diabetes NN nsubj
+
+48 pre-disposition NN nsubj
+
+49
+
+50 doctors NNS nsubj
+
+50 patients NNS nsubj
+
+50 that WDT nsubj
+

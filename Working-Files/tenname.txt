@@ -1,0 +1,64 @@
+
+1 need—
+2 those—
+3 give—
+4 themselves—
+5 injection—
+
+6 something
+7 diabetes 
+8 that WDT nsubjpass
+9 has VBZ advcl
+10 when WRB advmod
+11 someone NN nsubj
+12 it PRP dobj
+13 they PRP nsubj
+14 it PRP dobj
+
+15 need VB ROOT
+16 kind NN dobj
+17 someone NN nsubj
+18 follow VB xcomp
+19 foods NNS nsubj
+20 they PRP nsubj
+21 not RB neg
+22 all RB advmod
+23 at RB advmod
+
+24 treatment NN ROOT
+25 diet NN nsubj
+
+26 exist VB ROOT
+27 it PRP nsubj
+28 classified VBN dep
+29 such JJ dep
+30 people NNS nsubjpass
+31 they PRP nsubj
+32 diagnosable JJ advcl
+33 even RB advmod
+34 they PRP nsubj
+35 not RB neg
+
+36 have VB ROOT
+37 role NN dep
+38 relation NN dobj
+39 disease NN nsubj
+40 dysfunction NN dobj
+
+41 What WP ROOT
+42 symptoms NNS nsubj
+
+43 contract NN ROOT
+44 How WRB advmod
+45 one PRP nsubj
+46 diabetes NN dobj
+47 late RB advmod
+48 so RB advmod
+
+49 eating VBG ROOT
+50 lot NN dobj
+
+51 causes VBZ ROOT
+52 What WP nsubj
+53 specifically RB advmod
+54 diabetes NN dobj

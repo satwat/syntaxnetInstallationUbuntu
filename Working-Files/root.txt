@@ -1,0 +1,100 @@
+1 need VBP ROOT
+
+2 something NN ROOT
+
+3 need VB ROOT
+
+4 treatment NN ROOT
+
+5 exist VB ROOT
+
+6 have VB ROOT
+
+7 What WP ROOT
+
+8 contract NN ROOT
+
+9 eating VBG ROOT
+
+10 causes VBZ ROOT
+
+11 preventable JJ ROOT
+
+12 What WP ROOT
+
+13 heard VBN ROOT
+
+14 inject VB ROOT
+
+15 play VB ROOT
+
+16 advocates VBZ ROOT
+
+17 have VBP ROOT
+
+18 What WP ROOT
+
+19 have VB ROOT
+
+20 be VB ROOT
+
+21 get VB ROOT
+
+22 What WP ROOT
+
+23 affect VB ROOT
+
+24 troublesome JJ ROOT
+
+25 understand VBP ROOT
+
+26 read VBN ROOT
+
+27 prevent VB ROOT
+
+28 do VBP ROOT
+
+29 make VB ROOT
+
+30 prevented VBN ROOT
+
+31 What WP ROOT
+
+32 thing NN ROOT
+
+33 rid VBN ROOT
+
+34 What WP ROOT
+
+35 What WP ROOT
+
+36 have VBP ROOT
+
+37 type VB ROOT
+
+38 manage VB ROOT
+
+39 What WP ROOT
+
+40 experienced VBD ROOT
+
+41 diabetes VBP ROOT
+
+42 cured VBN ROOT
+
+43 mean VB ROOT
+
+44 test VB ROOT
+
+45 Are VBP ROOT
+
+46 lead VB ROOT
+
+47 cause VB ROOT
+
+48 Is VBZ ROOT
+
+49 cured VBN ROOT
+
+50 proactive JJ ROOT
+

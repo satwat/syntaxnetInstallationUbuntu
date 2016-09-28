@@ -1,0 +1,100 @@
+1
+
+2 that WDT nsubjpass
+
+3
+
+4
+
+5 people NNS nsubjpass
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27 I PRP nsubjpass
+
+28
+
+29 that WDT nsubjpass
+
+30 diabetes NNS nsubjpass
+
+31
+
+32
+
+33 you PRP nsubjpass
+
+34
+
+35
+
+36
+
+37 symptoms NNS nsubjpass
+
+38
+
+39
+
+40 failure NN nsubjpass
+
+41
+
+42 diabetes NN nsubjpass
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48 it PRP nsubjpass
+
+49 diabetes NNS nsubjpass
+
+50
+

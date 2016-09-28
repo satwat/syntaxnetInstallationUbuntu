@@ -1,0 +1,112 @@
+1
+
+2
+
+3
+
+4
+
+5 classified VBN dep
+
+5 such JJ dep
+
+6 role NN dep
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 diabetes NNS dep
+
+14
+
+15
+
+16 diabetes NN dep
+
+16 disease NN dep
+
+17
+
+18 about IN dep
+
+18 different JJ dep
+
+19 much JJ dep
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26 true JJ dep
+
+27 get VBP dep
+
+28 What WP dep
+
+29
+
+30
+
+31 Such JJ dep
+
+31 experiences NNS dep
+
+32 get VB dep
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38 diabetes NN dep
+
+39 diabetic NN dep
+
+40 not RB dep
+
+40 ago. FW dep
+
+40 caused VBN dep
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+

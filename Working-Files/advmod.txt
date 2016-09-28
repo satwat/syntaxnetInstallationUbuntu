@@ -1,0 +1,130 @@
+1
+
+2 when WRB advmod
+
+3 all RB advmod
+
+3 at RB advmod
+
+4
+
+5 even RB advmod
+
+6
+
+7
+
+8 How WRB advmod
+
+8 late RB advmod
+
+8 so RB advmod
+
+9
+
+10 specifically RB advmod
+
+11 all RB advmod
+
+11 at IN advmod
+
+12
+
+13
+
+14
+
+15
+
+16 why WRB advmod
+
+17 only RB advmod
+
+18 more RBR advmod
+
+19 How WRB advmod
+
+20 when WRB advmod
+
+21 ever RB advmod
+
+22 most RBS advmod
+
+23 How WRB advmod
+
+24 more RBR advmod
+
+25 automatically RB advmod
+
+25 still RB advmod
+
+25 down RB advmod
+
+26 sometimes RB advmod
+
+27
+
+28
+
+29 recently RB advmod
+
+30
+
+31
+
+32 just RB advmod
+
+32 too RB advmod
+
+33
+
+34
+
+35 ever RB advmod
+
+36
+
+37 fully RB advmod
+
+37 alone RB advmod
+
+38 How WRB advmod
+
+39 most RBS advmod
+
+40 long RB advmod
+
+40 too RB advmod
+
+40 ago RB advmod
+
+41 really RB advmod
+
+42 completely RB advmod
+
+43
+
+44 often RB advmod
+
+44 How WRB advmod
+
+44 too RB advmod
+
+44 too RB advmod
+
+45
+
+46 always RB advmod
+
+47 directly RB advmod
+
+48 purely RB advmod
+
+49 ever RB advmod
+
+50 Why WRB advmod
+
+50 more RBR advmod
+
+50 etc FW advmod
+

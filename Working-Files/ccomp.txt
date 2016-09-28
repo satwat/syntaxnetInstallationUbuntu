@@ -1,0 +1,100 @@
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13 basis NN ccomp
+
+14
+
+15
+
+16 develop VBP ccomp
+
+17 impossible JJ ccomp
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 treat VB ccomp
+
+25 triggers NNS ccomp
+
+26 reversed VBN ccomp
+
+27
+
+28
+
+29 diagnosed VBN ccomp
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37 minimized VBN ccomp
+
+38
+
+39
+
+40
+
+41 Type NN ccomp
+
+42
+
+43 am VBP ccomp
+
+44
+
+45 manage VB ccomp
+
+46
+
+47
+
+48
+
+49
+
+50 avoid VB ccomp
+

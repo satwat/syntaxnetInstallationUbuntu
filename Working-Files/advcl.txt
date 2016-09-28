@@ -1,0 +1,104 @@
+1
+
+2 has VBZ advcl
+
+3
+
+4
+
+5 diagnosable JJ advcl
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16 true JJ advcl
+
+17 suspect VBP advcl
+
+17 reverse VB advcl
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24 ages NNS advcl
+
+25
+
+26
+
+27 diagnosed VBN advcl
+
+27 serious JJ advcl
+
+28
+
+29
+
+30
+
+31 have VBP advcl
+
+32
+
+33 thing NN advcl
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41 likely JJ advcl
+
+42
+
+43
+
+44 high JJ advcl
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+

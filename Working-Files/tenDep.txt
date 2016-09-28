@@ -1,0 +1,64 @@
+
+1 need VBP ROOT
+1 those DT nsubj
+1 give VB xcomp
+1 themselves PRP iobj
+1 injection NN dobj
+
+2 something NN ROOT
+2 diabetes NNS nsubj
+2 that WDT nsubjpass
+2 has VBZ advcl
+2 when WRB advmod
+2 someone NN nsubj
+2 it PRP dobj
+2 they PRP nsubj
+2 it PRP dobj
+
+3 need VB ROOT
+3 kind NN dobj
+3 someone NN nsubj
+3 follow VB xcomp
+3 foods NNS nsubj
+3 they PRP nsubj
+3 not RB neg
+3 all RB advmod
+3 at RB advmod
+
+4 treatment NN ROOT
+4 diet NN nsubj
+
+5 exist VB ROOT
+5 it PRP nsubj
+5 classified VBN dep
+5 such JJ dep
+5 people NNS nsubjpass
+5 they PRP nsubj
+5 diagnosable JJ advcl
+5 even RB advmod
+5 they PRP nsubj
+5 not RB neg
+
+6 have VB ROOT
+6 role NN dep
+6 relation NN dobj
+6 disease NN nsubj
+6 dysfunction NN dobj
+
+7 What WP ROOT
+7 symptoms NNS nsubj
+
+8 contract NN ROOT
+8 How WRB advmod
+8 one PRP nsubj
+8 diabetes NN dobj
+8 late RB advmod
+8 so RB advmod
+
+9 eating VBG ROOT
+9 lot NN dobj
+
+10 causes VBZ ROOT
+10 What WP nsubj
+10 specifically RB advmod
+10 diabetes NN dobj
