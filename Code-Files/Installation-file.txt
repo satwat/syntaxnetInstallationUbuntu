@@ -1,3 +1,4 @@
+1.
 to run a single line 
 i) open folder — models/syntaxnet
 ii) echo ‘I am here to find X’ | syntaxnet/demo.sh
