@@ -1,8 +1,0 @@
-3 not RB neg
-
-5 not RB neg
-
-16 never RB neg
-
-50 n't RB neg
-
